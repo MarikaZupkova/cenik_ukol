@@ -22,4 +22,4 @@ const selectPlan = (planNumber) => {
   }
 }
 
-selectPlan(4)
+selectPlan()
